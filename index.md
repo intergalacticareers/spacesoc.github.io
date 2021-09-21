@@ -1,6 +1,4 @@
-## Welcome to The Space and Astronomy Website
-
-This is the Space and Astronomy society website
+## Space and Astronomy Website
 
 
 ### What are we
