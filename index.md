@@ -7,6 +7,36 @@ We are the uct space and astronomy society based at uct.
 ```markdown
 Syntax highlighted code block
 
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hank Quinlan, Horrible Cop</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there,Welcome to spacesoc</h1>
+				<p>this is the space and astronomy society</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		
+			</ul>
+		</footer>
+	</body>
+</html>
+
+
 # Header 1
 ## Header 2
 ### Header 3
