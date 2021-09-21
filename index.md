@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to The Space and Astronomy Website
 
 This is the Space and Astronomy society website
 
-SPACE YEEY!
 
-### Markdown
+### What are we
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+We are the uct space and astronomy society based at uct. 
 ```markdown
 Syntax highlighted code block
 
