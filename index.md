@@ -2,11 +2,6 @@
 
 
 ### What are we
-
-We are the uct space and astronomy society based at uct. 
-```markdown
-Syntax highlighted code block
-
 <!DOCTYPE html>
 <html>
 	<head>
@@ -35,6 +30,11 @@ Syntax highlighted code block
 		</footer>
 	</body>
 </html>
+
+We are the uct space and astronomy society based at uct. 
+```markdown
+Syntax highlighted code block
+
 
 
 # Header 1
